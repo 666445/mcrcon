@@ -8,7 +8,7 @@
 本产品只是一个作为命令输出<br>
 rcon这个协议中的传输是明文的**包括密码**
 #
-[![Release](https://img.shields.io/badge/Release-v1.0.0-blue)](https://github.com/666445/mcrcon/releases)
+[![Release](https://img.shields.io/badge/Release-v0.1.0-blue)](https://github.com/666445/mcrcon/releases)
 [![Downloads](https://img.shields.io/badge/Downloads-0-green)](https://github.com/666445/mcrcon/releases/tag/v1.0.0)
 [![Issues](https://img.shields.io/badge/Issues-0%20open-yellow)](https://github.com/666445/mcrcon/issues)
 [![Stars](https://img.shields.io/github/stars/666445/mcrcon.svg?style=social)](https://github.com/666445/mcrcon/stargazers)
